@@ -1,12 +1,12 @@
-package at.xtools.pwawrapper;
+package com.astroanax.yarr;
 
 import android.content.Intent;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import at.xtools.pwawrapper.ui.UIManager;
-import at.xtools.pwawrapper.webview.WebViewHelper;
+import com.astroanax.yarr.ui.UIManager;
+import com.astroanax.yarr.webview.WebViewHelper;
 
 public class MainActivity extends AppCompatActivity {
     // Globals

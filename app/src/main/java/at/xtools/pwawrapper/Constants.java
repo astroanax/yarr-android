@@ -1,4 +1,4 @@
-package at.xtools.pwawrapper;
+package com.astroanax.yarr;
 
 public class Constants {
     public Constants(){}

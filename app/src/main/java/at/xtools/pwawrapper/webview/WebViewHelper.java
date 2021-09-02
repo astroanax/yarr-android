@@ -1,4 +1,4 @@
-package at.xtools.pwawrapper.webview;
+package com.astroanax.yarr.webview;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
@@ -20,9 +20,9 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-import at.xtools.pwawrapper.Constants;
-import at.xtools.pwawrapper.R;
-import at.xtools.pwawrapper.ui.UIManager;
+import com.astroanax.yarr.Constants;
+import com.astroanax.yarr.R;
+import com.astroanax.yarr.ui.UIManager;
 
 public class WebViewHelper {
     // Instance variables
